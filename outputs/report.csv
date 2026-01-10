@@ -1,0 +1,4 @@
+old,new,label,cosine
+"3.​ Feedback Tuning: User review feedback refines thresholds iteratively, reducing false  positives over time.","3.​ Feedback Tuning: User review feedback refines thresholds iteratively, increasing  false positives over time.",MAJOR_SEMANTIC_CHANGE,0.9975681304931641
+,,,
+,,,
